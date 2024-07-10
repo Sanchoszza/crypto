@@ -199,9 +199,3 @@ extension HomeView {
         .padding(.horizontal)
     }
 }
-
-
-/*
- 14 видео
- https://github.com/SwiftfulThinking/SwiftUI-Crypto-MVVM-CoreData-Combine.git
- */
